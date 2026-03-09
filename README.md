@@ -1,4 +1,4 @@
-# Hi there, I'm [Frank Ackermann/Acki77] 👋
+# Hi there, I'm Frank (Acki77) 👋
 <img width="512" height="512" alt="Profile_Header" src="https://github.com/user-attachments/assets/6bb9f9ec-4249-41f4-a042-60a74a7b8d95" />
 
 
